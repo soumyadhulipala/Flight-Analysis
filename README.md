@@ -14,7 +14,9 @@ planes.csv
 <img width="603" height="172" alt="Screenshot 2026-02-23 at 3 04 36 PM" src="https://github.com/user-attachments/assets/0e7f718f-9598-43a1-bc5d-2b766de339d7" />
 
 iata.csv
-<img width="467" height="115" alt="Screenshot 2026-02-23 at 3 05 32 PM" src="https://github.com/user-attachments/assets/03b330e0-7c5b-4fc7-9010-62f6f55a43b0" 
+<img width="465" height="119" alt="Screenshot 2026-02-23 at 3 06 17 PM" src="https://github.com/user-attachments/assets/48dcaea0-1463-498e-bec8-3305040f5767" />
+
+
 
 
 
